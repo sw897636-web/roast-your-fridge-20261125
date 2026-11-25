@@ -36,7 +36,7 @@ const drafts: Draft[] = [
     scores: { onTopic: 5, specific: 5, twist: 4, readsAloud: 5, fresh: 4 },
   },
   {
-    text: "There's a container in my freezer older than my last three relationships, and somehow it's the only one still holding it together.",
+    text: "Behind the ketchup sits a Tupperware labeled 'Mom's chili 3/14/19.' Since then Mom remarried, sold the house, and moved to Lisbon. The chili is still here, waiting for me to call.",
     scores: { onTopic: 5, specific: 5, twist: 5, readsAloud: 5, fresh: 5 },
   },
   {
